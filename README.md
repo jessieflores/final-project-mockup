@@ -1,7 +1,7 @@
 # final-project-mockup
 
-![](images/landing-page.png)
+![](/images/landing-page.png)
 
-![](images/profile.png)
+![](/images/profile.png)
 
-![](images/filter.png)
+![](/images/filter.png)
