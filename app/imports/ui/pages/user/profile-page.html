@@ -15,12 +15,9 @@
       </div>
 
       <div class="field">
-        {{> Text_Form_Control label="Title" placeholder="Student" value=profile.title errorMessage=(fieldError "title")}}
-        {{> Text_Form_Control label="Picture" placeholder="http://foo.com/shot.jpg" value=profile.picture errorMessage=(fieldError "picture")}}
-      </div>
-
-      <div class="field">
-        {{> Select_Form_Control label="Interests" options=interests errorMessage=(fieldError "interests") multiple=true }}
+        {{> Text_Form_Control label="Tastes" placeholder="Rock, Classical, R&B" }}
+        {{> Text_Form_Control label="Capabilities" placeholder="Piano player for 3 years, guitar player for 6 years, etc"}}
+        {{> Text_Form_Control label="Goals" placeholder="I wish to improve my level of guitar playing and join a band that plays for children"}}
       </div>
 
       <div class="fields">

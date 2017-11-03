@@ -1,13 +1,14 @@
 .landing-section-1 {
   padding: 10px 10px 30px 10px;
-  background-color: #00B5AD;
+  /*height: 250px;*/
+  background-color: #cc0000;
   color: #E5F9E7;
 }
 
 .landing-section-2 {
   padding: 20px 10px 20px 10px;
-  background-color: #E5F9E7;
-  color:  #00B5AD;
+  background-color: #ff9900;
+  color:  #E5F9E7;
 }
 
 .landing-section-3 {
@@ -16,9 +17,15 @@
   color: #E5F9E7;
 }
 
+.landing-section-4 {
+  padding: 20px 10px 20px 10px;
+  background-color: #00bfff;
+  color:  #E5F9E7;
+}
+
 .landing-section-5 {
   padding: 20px 10px 20px 10px;
-  background-color: #00B5AD;
+  background-color: #ff00bf;
   color: #E5F9E7;
 }
 
